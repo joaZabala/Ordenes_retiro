@@ -1,0 +1,22 @@
+C:\Users\Maria\source\repos\Ordenes\Ordenes\bin\Debug\Ordenes.exe.config
+C:\Users\Maria\source\repos\Ordenes\Ordenes\bin\Debug\Ordenes.exe
+C:\Users\Maria\source\repos\Ordenes\Ordenes\bin\Debug\Ordenes.pdb
+C:\Users\Maria\source\repos\Ordenes\Ordenes\obj\Debug\Ordenes.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\Ordenes\Ordenes\obj\Debug\Ordenes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\source\repos\Ordenes\Ordenes\obj\Debug\Ordenes.FrmOrdenRetiro.resources
+C:\Users\Maria\source\repos\Ordenes\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+C:\Users\Maria\source\repos\Ordenes\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\Ordenes\Ordenes\obj\Debug\Ordenes.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\Ordenes\Ordenes\obj\Debug\Ordenes.exe
+C:\Users\Maria\source\repos\Ordenes\Ordenes\obj\Debug\Ordenes.pdb
+C:\Users\Maria\Desktop\MODELO DE PARCIAL PROGRA2\Ordenes\Ordenes\bin\Debug\Ordenes.exe.config
+C:\Users\Maria\Desktop\MODELO DE PARCIAL PROGRA2\Ordenes\Ordenes\bin\Debug\Ordenes.exe
+C:\Users\Maria\Desktop\MODELO DE PARCIAL PROGRA2\Ordenes\Ordenes\bin\Debug\Ordenes.pdb
+C:\Users\Maria\Desktop\MODELO DE PARCIAL PROGRA2\Ordenes\Ordenes\obj\Debug\Ordenes.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\MODELO DE PARCIAL PROGRA2\Ordenes\Ordenes\obj\Debug\Ordenes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\Desktop\MODELO DE PARCIAL PROGRA2\Ordenes\Ordenes\obj\Debug\Ordenes.FrmOrdenRetiro.resources
+C:\Users\Maria\Desktop\MODELO DE PARCIAL PROGRA2\Ordenes\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+C:\Users\Maria\Desktop\MODELO DE PARCIAL PROGRA2\Ordenes\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\MODELO DE PARCIAL PROGRA2\Ordenes\Ordenes\obj\Debug\Ordenes.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\MODELO DE PARCIAL PROGRA2\Ordenes\Ordenes\obj\Debug\Ordenes.exe
+C:\Users\Maria\Desktop\MODELO DE PARCIAL PROGRA2\Ordenes\Ordenes\obj\Debug\Ordenes.pdb
